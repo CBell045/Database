@@ -25,7 +25,6 @@ I used the following Python libraries:
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 
 - [Stack Overflow](https://stackoverflow.com)
 Like most programmers, I use this all the time to answer random questions. 
