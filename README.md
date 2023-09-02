@@ -4,7 +4,6 @@ The purpose of this project is to create a database using PostgreSQL and then in
 
 The software first connects to my local database, then creates the tables and their relationships, then inserts data into the tables, and then queries the database for information.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of how created the Relational Database.}
 
 [Software Demo Video](https://youtu.be/o0dsMo36sIo)
 
